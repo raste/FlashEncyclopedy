@@ -1,0 +1,60 @@
+﻿<gallery>
+
+	<image>
+		<category>plants</category>
+		<subcategory>Субтропични</subcategory>
+		<path>images\ГАЛЕРИЯ\subtropi4eski_rasteniq.jpg</path>
+	</image>
+
+	<image>
+		<category>plants</category>
+		<subcategory>Културни</subcategory>
+		<path>images\ГАЛЕРИЯ\Културни растения.jpg</path>
+	</image>
+	
+	<image>
+		<category>animals</category>
+		<subcategory>Безгръбначни</subcategory>
+		<path>images\ГАЛЕРИЯ\Безгръбначни.jpg</path>
+	</image>
+	
+	<image>
+		<category>animals</category>
+		<subcategory>Риби</subcategory>
+		<path>images\ГАЛЕРИЯ\Риби.jpg</path>
+	</image>
+	
+	<image>
+		<category>animals</category>
+		<subcategory>Птици</subcategory>
+		<path>images\ГАЛЕРИЯ\Птици.jpg</path>
+	</image>
+	
+	<image>
+		<category>animals</category>
+		<subcategory>Бозайници</subcategory>
+		<path>images\ГАЛЕРИЯ\Бозайници.jpg</path>
+	</image>
+
+<!--
+	<image>
+		<category></category>
+		<subcategory></subcategory>
+		<path></path>
+	</image>
+
+category : animals
+subcategory: 
+Безгръбначни
+Риби
+Птици
+Бозайници
+
+category : plants 
+subcategory:
+Субтропични
+Културни
+-->
+
+</gallery>
+
