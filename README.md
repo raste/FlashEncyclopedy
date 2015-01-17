@@ -8,11 +8,11 @@ Developed in 2 weeks. The shown information is read from XML files. The used lan
 
 ### Run
 
-FLASH plugin is needed. You will have to download all files in src directory (except FlashEncyclopedy.fla) and run the .swf file (do note that the files folder structure must me preserved).
+FLASH plugin is needed. You will have to download all files in [src](https://github.com/raste/FlashEncyclopedy/tree/master/src) directory (except [FlashEncyclopedy.fla](https://github.com/raste/FlashEncyclopedy/blob/master/src/FlashEncyclopedy.fla)) and run the [.swf](https://github.com/raste/FlashEncyclopedy/blob/master/src/FlashEncyclopedy.swf) file (do note that the files folder structure must me preserved).
 
 ### Poke/Edit
 
-To see the source open the src/.fla file in Adobe Flash CC.
+To see the source open the [src/.fla](https://github.com/raste/FlashEncyclopedy/blob/master/src/FlashEncyclopedy.fla) file in Adobe Flash CC.
 
 ### Images
 
