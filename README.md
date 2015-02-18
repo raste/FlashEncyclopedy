@@ -2,6 +2,8 @@
 
 ### About
 
+May 2010
+
 Simple encyclopedy made for diploma thesis, created with Flash. 
 
 Developed in 2 weeks. The shown information is read from XML files. The used language is Bulgarian.
